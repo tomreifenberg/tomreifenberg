@@ -9,7 +9,7 @@ This training program revolves around the skills needed to become a full stack w
 ### Media Platforms:
 
 - 🔗 [LinkedIn](http://linkedin.com/in/tomreifenberg) 
-- 📋 [Medium] (https://medium.com/@reifenberg.57) 
+- 📋 [Medium](http://medium.com/@reifenberg.57) 
 - 🐦 [Twitter](http://twitter.com/Tomtheplantsman) 
 
 ### Fun Facts:
