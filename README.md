@@ -14,7 +14,7 @@ This training program revolves around the skills needed to become a full stack w
 
 ### Fun Facts:
 
-- 🔭 I’m currently working on building better database experiences
+- 🔭 I’m currently working on building out React projects in a MERN stack
 - 🌱 I’m currently learning everything I can for full stack web development, hybrid mobile apps, and information security
 - :handshake: I’m looking to collaborate on anything to do with environmental data, smoother connections between front/back ends, or particularly strange CTF challenges!
 - 🤔 I’m looking for help with growing my network of cool engineers
