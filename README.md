@@ -10,7 +10,7 @@ This training program revolves around the skills needed to become a full stack w
 
 - 🔗 [LinkedIn](http://linkedin.com/in/tomreifenberg) 
 - 📋 [Medium](http://medium.com/@tomreifenberg) 
-- 🐦 [Twitter](http://twitter.com/Tomtheplantsman)
+- 🐦 [Twitter](http://twitter.com/kernel_panicked)
 - 💼 [Portfolio](https://tomreifenberg.github.io/)
 
 ### Fun Facts:
