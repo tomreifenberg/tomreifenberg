@@ -1,6 +1,6 @@
 ### I'm Tom Reifenberg, a full stack developer 👋
 
-After completing a rigorous dev bootcamp I've joined Cognizant as a full stack developer intern, which has been so thrilling! Outside of heavily focusing on designing apps with Angular and Springboot, I've been broadening my knowledge in the world of infosec. 
+I've joined Cognizant as a full stack engineer after switching careers from landscape architecture, which has been so thrilling! Outside of heavily focusing on designing apps with Angular and Springboot, I've been broadening my knowledge in the world of infosec. 
 
 <!--
 **tomreifenberg/tomreifenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
