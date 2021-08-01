@@ -8,15 +8,15 @@ I've joined Cognizant as a full stack engineer after switching careers from land
 
 ### Media Platforms:
 
+- 💼 [Portfolio](https://tomreifenberg.dev/)
 - 🔗 [LinkedIn](http://linkedin.com/in/tomreifenberg) 
 - 📋 [Medium](http://medium.com/@tomreifenberg) 
 - 🐦 [Twitter](http://twitter.com/kernel_panicked)
-- 💼 [Portfolio](https://tomreifenberg.dev/)
 
 ### Fun Facts:
 
-- 🔭 These days, I'm working on building apps with Angular and Springboot
-- 🌱 I’m currently learning everything I can for full stack web development, hybrid mobile apps, and information security
+- 🔭 These days, I'm working on building web apps with Angular and Springboot
+- 🌱 I’m currently learning everything I can for full stack web development, hybrid mobile apps, and the almighty cloud
 - :handshake: I’m looking to collaborate on anything to do with environmental data, quicker connections between front/back ends, or interesting hackathons
 - 💬 Ask me about plants (I was previously a landscape architect!), the best camping around The Great Lakes, or anything to do with Angular 
 - 📫 How to reach me: [My Email](tomreifenberg@protonmail.com)
