@@ -10,7 +10,7 @@ I've joined Cognizant as a full stack engineer after switching careers from land
 
 - 💼 [Portfolio](https://tomreifenberg.dev/)
 - 🔗 [LinkedIn](http://linkedin.com/in/tomreifenberg) 
-- 📋 [Medium](http://medium.com/@tomreifenberg) 
+- 📋 [DEV](https://dev.to/tomreifenberg) 
 - 🐦 [Twitter](http://twitter.com/kernel_panicked)
 
 ### Fun Facts:
