@@ -1,6 +1,8 @@
 ### I'm Tom Reifenberg, a full stack developer 👋
 
-I've joined Cognizant as a full stack engineer after switching careers from landscape architecture, which has been so thrilling! Outside of heavily focusing on designing apps with Angular and Springboot, I've been broadening my knowledge in the world of infosec. 
+After a rewarding career designing landscapes for cities, I adapted my knack for systems-based thinking and problem solving to full stack development.
+
+I enjoy digging into new frameworks, building code with security in mind, and collaborating to make the strongest applications possible. When I'm not honing these skills, I enjoy cooking, camping, and playing videogames.
 
 <!--
 **tomreifenberg/tomreifenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
