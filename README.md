@@ -14,7 +14,7 @@ I enjoy digging into new frameworks, building code with security in mind, and co
 - 🔗 [LinkedIn](http://linkedin.com/in/tomreifenberg) 
 - 📋 [DEV](https://dev.to/tomreifenberg) 
 - 🐦 [Twitter](http://twitter.com/kernel_panicked)
-- - 📫 [Email](tomreifenberg@icloud.com)
+- 📫 [Email](tomreifenberg@icloud.com)
 
 
 ### Fun Facts:
